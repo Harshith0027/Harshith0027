@@ -1,4 +1,5 @@
 # 💫 About Me:
+ # Portfolio: https://harshit-jarajana-portfolio.netlify.app/
 🔍 Exploring the World of Innovation<br>💻 Passionate about pushing boundaries and expanding horizons in Computer Science.<br>🎯 Goal-Oriented Learner<br>📚 Constantly honing my skills in cutting-edge technologies, adaptable to challenges, and driven by a love for solving complex problems.<br>🤝 Collaboration Enthusiast<br>✨ Excited to contribute to impactful projects, exchange ideas with innovative minds, and grow alongside experienced professionals.<br>🚀 Ambitions in Action<br>🌟 Aiming to build a successful career by leveraging technical expertise, creativity, and a deep curiosity for innovation.<br>⚡ Fun Fact: I believe every challenge is an opportunity in disguise.
 
 
